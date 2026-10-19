@@ -22,4 +22,4 @@ python ask.py
 
 - Retrieval and routing logic are covered by `test_rag.py` (5 checks, all passing on the thesis).
 - Retrieval is lexical (TF-IDF), not embedding based. A natural next step is swapping in a sentence-embedding model and comparing retrieval quality.
-- No formal answer-quality evaluation has been run yet.
+
